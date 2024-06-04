@@ -1,6 +1,6 @@
 import { test } from '@playwright/test';
 
-async function doAction(action: Function) {
+async function doAction(action) {
     await action();
 }
 
