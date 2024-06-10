@@ -1,0 +1,1 @@
+## Not a bug, I just forgot about Function.prototype.bind :)
